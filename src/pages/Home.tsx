@@ -6,6 +6,12 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
   <div className="min-h-screen">
+    <style>{`
+      @keyframes upDown {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(40px); }
+      }
+    `}</style>
       <section className="bg-gradient-hero py-20 relative overflow-hidden">
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-4xl mx-auto">
@@ -34,28 +40,31 @@ const Home = () => {
           </div>
         </div>
         
-       <div className="absolute top-20 left-10">
+  <div className="absolute top-20 left-10">
   <img
-    src="/uploads/Colorful Pastel Cute Sweet Candy Logo (1).png"
+    src="/uploads/bala1.png"
     alt="Logo Marcelo Doces e Cia"
-    className="w-20 h-20 object-contain shadow-none hidden xl:block"
+    className="w-32 h-32 object-contain shadow-none hidden xl:block"
+    style={{ animation: 'upDown 2s infinite' }}
   />
 </div>
 <div className="absolute top-40 right-20">
   <img
-    src="/uploads/Made with insMind-insMind (1).png"
+    src="/uploads/bala2.png"
     alt="Logo Marcelo Doces e Cia"
-    className="w-20 h-20 object-contain shadow-none hidden xl:block"
+    className="w-32 h-32 object-contain shadow-none hidden xl:block"
+    style={{ animation: 'upDown 2.5s infinite', animationDelay: '0.5s' }}
   />
 </div>
 <div className="absolute bottom-20 left-1/4 " style={{ animationDelay: '2s' }}>
   <img
-    src="/uploads/Made with insMind-insMind.png"
+    src="/uploads/bala3.png"
     alt="Logo Marcelo Doces e Cia"
     className="w-16 h-16 object-contain shadow-none hidden xl:block"
+    style={{ animation: 'upDown 3s infinite', animationDelay: '1s' }}
   />
 </div>
-      </section>
+</section>
 
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
