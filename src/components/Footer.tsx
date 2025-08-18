@@ -53,7 +53,7 @@ const Footer = () => {
               {/* Instagram */}
               <div className="flex items-center mt-8">
                 <a
-                  href="https://www.instagram.com/marcelo_doces_e_cia"
+                  href="https://www.instagram.com/marcelo.doceiro"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 bg-white rounded-full transition-colors cursor-pointer flex items-center justify-center"
