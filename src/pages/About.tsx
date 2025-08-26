@@ -45,8 +45,9 @@ const About = () => {
             </div>
             <div className="relative">
               <div className="bg-white p-6 text-center shadow-sweet rounded-2xl">
-                <img src="/uploads/logotransparente.png"
-                  alt="Marcelo Doces e Cia" 
+                <img
+                  src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/logotransparente.png"
+                  alt="Marcelo Doces e Cia"
                   className="h-48 w-48 mx-auto mb-4 object-contain rounded-xl"
                 />
                 <h3 className="text-2xl font-bold text-primary mb-2">+15 Anos</h3>
@@ -75,7 +76,8 @@ const About = () => {
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
                       <CardContent className="flex aspect-video items-center justify-center p-6">
-                        <img src="/uploads/van.jpg"
+                        <img
+                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/van.jpg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
@@ -86,8 +88,8 @@ const About = () => {
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
                       <CardContent className="flex aspect-video items-center justify-center p-6">
-                        <img 
-                          src="/uploads/traseiravan.jpg"
+                        <img
+                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/traseiravan.jpg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
@@ -110,8 +112,8 @@ const About = () => {
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
                       <CardContent className="flex aspect-video items-center justify-center p-6">
-                        <img 
-                          src="/uploads/fotonavan.jpg"
+                        <img
+                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/foto.van.jpg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
@@ -122,8 +124,8 @@ const About = () => {
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
                       <CardContent className="flex aspect-video items-center justify-center p-6">
-                        <img 
-                          src="/uploads/klfotovan2025.jpeg"
+                        <img
+                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/fotovan2025.jpeg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>

@@ -18,7 +18,7 @@ const Header = () => {
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
           <img 
-            src="uploads/logo.jpg"
+            src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/logo.jpg"
             alt="Marcelo Doces e Cia" 
             className="h-16 w-16 object-contain"
           />
@@ -67,7 +67,6 @@ const Header = () => {
         </div>
       </nav>
 
-      {/* Menu Mobile */}
       {isMenuOpen && (
         <div className="md:hidden bg-white border-t shadow-lg">
           <div className="container mx-auto px-4 py-4 space-y-4">

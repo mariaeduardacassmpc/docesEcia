@@ -304,7 +304,7 @@ const Products = () => {
       <section className="py-16 bg-gradient-hero">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-primary mb-6">
-           Alguns dos Nossos Produtos
+            Nossos Produtos
           </h1>
           <p className="text-xl text-muted-foreground max-w-4xl mx-auto mb-8">
             Descubra nossa seleção especial de doces de pote e guloseimas. Produtos escolhidos a dedo para garantir qualidade e sabor.
