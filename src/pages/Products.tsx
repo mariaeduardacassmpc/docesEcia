@@ -59,7 +59,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-blue"],
-      image: "/uploads/dadinho.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495161/WhatsApp_Image_2025-08-06_at_21.46.43_6_usywey.jpg"
     },
     {
       id: 7,
@@ -86,7 +86,7 @@ const Products = () => {
       category: "Chocolates",
       rating: 5,
       colors: ["bg-candy-green", "bg-candy-yellow"],
-      image: "/uploads/kitkat.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495161/WhatsApp_Image_2025-08-06_at_21.46.43_7_y4cxzp.jpg"
     },
     {
       id: 10,
@@ -95,7 +95,7 @@ const Products = () => {
       category: "Chocolates",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/prestigio.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495161/WhatsApp_Image_2025-08-06_at_21.46.43_8_w8lbio.jpg"
     },
     {
       id: 11,
@@ -104,7 +104,7 @@ const Products = () => {
       category: "Chocolates",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/moça.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495160/WhatsApp_Image_2025-08-06_at_21.46.43_p0cavv.jpg"
     },
     {
       id: 12,
@@ -113,7 +113,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/tridentmenta.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495162/WhatsApp_Image_2025-08-06_at_21.46.43_2_eqqs6t.jpg"
     },
     {
       id: 13,
@@ -122,7 +122,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/tridentmel.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495162/WhatsApp_Image_2025-08-06_at_21.46.43_4_f9vxyg.jpg"
     },
     {
       id: 14,
@@ -131,7 +131,7 @@ const Products = () => {
       category: "Chocolates",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/trento (2).jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495161/WhatsApp_Image_2025-08-06_at_21.46.43_10_plutml.jpg"
     },
     {
       id: 15,
