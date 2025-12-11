@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
               <img
-                src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/logo.jpg"
+                src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495163/WhatsApp_Image_2025-08-01_at_11.32.59_zgytup.jpg"
                 alt="Marcelo Doces e Cia"
                 className="h-16 w-16 object-contain bg-white rounded-full p-2"
               />
@@ -69,11 +69,10 @@ const Footer = () => {
                   className="flex items-center justify-center bg-white rounded-xl transition-colors cursor-pointer"
                   title="Solicite um orçamento para site ou sistema"
                 >
-                  <img
-                    src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/logomaria.png"
-                    alt="Maria Dev"
-                    className="h-20 w-36 object-contain rounded-xl"
-                  />
+
+              <img src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495164/Logotipo_para_desenvolvedor_de_sistemas_preto_e_laranja_bnaivc.png"
+                    alt="Maria Dev"  className="h-20 w-36 object-contain rounded-xl"
+              />
                 </a>
               </div>
             </div>
