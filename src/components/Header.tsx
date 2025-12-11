@@ -17,9 +17,9 @@ const Header = () => {
     <header className="bg-white shadow-sweet sticky top-0 z-50">
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
-          <img 
-            src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/logo.jpg"
-            alt="Marcelo Doces e Cia" 
+          <img
+            src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495163/WhatsApp_Image_2025-08-01_at_11.32.59_zgytup.jpg"
+            alt="Marcelo Doces e Cia"
             className="h-16 w-16 object-contain"
           />
           <div>
