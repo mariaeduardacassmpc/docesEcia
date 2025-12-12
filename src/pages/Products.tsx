@@ -191,7 +191,7 @@ const Products = () => {
       category: "Bombons",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498081/sonho_1_eal2ao.jpgg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498081/sonho_1_eal2ao.jpg"
     },
     {
       id: 22,
