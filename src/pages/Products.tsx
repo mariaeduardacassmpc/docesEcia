@@ -14,7 +14,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-green"],
-      image: "/uploads/paçocasaojoao.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495160/WhatsApp_Image_2025-08-06_at_21.46.42_fgxtsz.jpg"
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-pink", "bg-candy-blue"],
-      image: "/uploads/paçocarolha.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495161/WhatsApp_Image_2025-08-06_at_21.46.43_9_mma1hv.jpg"
     },
     {
       id: 3,
@@ -32,7 +32,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-blue", "bg-candy-yellow"],
-      image: "/uploads/pedemoca.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495160/WhatsApp_Image_2025-08-06_at_21.46.44_1_asoauh.jpg"
     },
     {
       id: 4,
@@ -41,7 +41,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/foundant.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495160/WhatsApp_Image_2025-08-06_at_21.46.43_11_ehhvr0.jpg"
     },
     {
       id: 5,
@@ -50,7 +50,7 @@ const Products = () => {
       category: "Chocolates",
       rating: 5,
       colors: ["bg-candy-blue", "bg-candy-green"],
-      image: "/uploads/baton.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495163/WhatsApp_Image_2025-08-06_at_21.46.43_3_drvlyo.jpg"
     },
     {
       id: 6,
@@ -68,7 +68,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-pink", "bg-candy-green"],
-      image: "/uploads/docedeabobora.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495160/WhatsApp_Image_2025-08-06_at_21.46.44_uxa0ct.jpg"
     },
     {
       id: 8,
@@ -77,7 +77,7 @@ const Products = () => {
       category: "Castanhas",
       rating: 5,
       colors: ["bg-candy-blue", "bg-candy-pink"],
-      image: "/uploads/castanhamix.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495161/WhatsApp_Image_2025-08-06_at_21.46.43_5_iabcmf.jpg"
     },
     {
       id: 9,
@@ -140,7 +140,7 @@ const Products = () => {
       category: "Salgadinhos",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/cebola.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497768/chicken_chicks_2_bhgqxo.jpg"
     },
     {
       id: 16,
@@ -149,7 +149,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/gomets.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498075/gomets_1_tjqqg1.jpg"
     },  {
       id: 17,
       name: "Ducrem Napolitano",
@@ -157,7 +157,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/ducrem.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498149/ducrem_1_p09a7h.jpg"
     },
     {
       id: 18,
@@ -166,7 +166,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/geleia.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498077/geleia_1_egzuot.jpg"
     },{
       id: 19,
       name: "Suspiro",
@@ -174,7 +174,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/suspiro.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498078/suspiro_1_mj5omi.jpg"
     },
     {
       id: 20,
@@ -183,7 +183,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/halls.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498079/halls_1_f54ohd.jpg"
     },{
       id: 21,
       name: "Sonho de Valsa",
@@ -191,7 +191,7 @@ const Products = () => {
       category: "Bombons",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/sonho.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498081/sonho_1_eal2ao.jpgg"
     },
     {
       id: 22,
@@ -200,7 +200,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/pemoca.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498179/pemoca_1_xcgcye.jpg"
     },
     {
       id: 24,
@@ -209,7 +209,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/balamilk.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498175/balamilk_1_ueqfwc.jpg"
     },
     {
       id: 25,
@@ -218,7 +218,7 @@ const Products = () => {
       category: "Doces",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/mocoto.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498221/mocoto_1_ygr8wd.jpg"
     },
     {
       id: 26,
@@ -227,7 +227,7 @@ const Products = () => {
       category: "Chocolates",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/snickers.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497948/snickers_1_qvqmpo.jpg"
     },
     {
       id: 27,
@@ -236,7 +236,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/ovo.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497949/ovo_1_v3d8iq.jpg"
     },
     {
       id: 28,
@@ -245,7 +245,7 @@ const Products = () => {
       category: "Bebidas",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/furioso.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497903/furioso_1_fgmfzj.jpg"
     }
     ,{
       id: 33,
@@ -254,7 +254,7 @@ const Products = () => {
       category: "Chocolates",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/sensacao.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497893/sensacao_1_p4ioe9.jpg"
     }
     ,{
       id: 29,
@@ -263,7 +263,7 @@ const Products = () => {
       category: "Espeto",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/pururca.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497892/pururca_1_c8uxej.jpg"
     }
     ,{
       id: 30,
@@ -272,7 +272,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/finident.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497850/finident_2_ra2zck.jpg"
     }
     ,{
       id: 31,
@@ -281,7 +281,7 @@ const Products = () => {
       category: "Balas/Chicletes",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/fini.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497799/fini_3_dtrkc6.jpg"
     } ,{
       id: 32,
       name: "Chicken Tik's",
@@ -289,8 +289,153 @@ const Products = () => {
       category: "Salgadinhos",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "/uploads/chicken chicks.jpeg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497768/chicken_chicks_2_bhgqxo.jpg"
     }
+    ,{
+      id: 33,
+      name: "Pipoca Andriolli",
+      description: "Leve, crocante e irresistível'.ㅤㅤㅤㅤㅤㅤ",
+      category: "Salgadinhos",
+      rating: 5,
+      colors: ["bg-candy-yellow", "bg-candy-pink"],
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498340/77b96ad9-BiscoitodePolvilhoAndriolli_produto_7898182180183.jpg_t3yi6a.webp"
+    }
+    ,{
+      id: 34,
+      name: "Biscoito Andriolli",
+      description: "Clássico, crocante e cheio de sabor.ㅤㅤㅤㅤㅤㅤ",
+      category: "Salgadinhos",
+      rating: 5,
+      colors: ["bg-candy-yellow", "bg-candy-pink"],
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498355/images_rptqde.jpg"
+    }
+   ,{
+      id: 35,
+      name: "Ouro Branco",
+      description: "Um clássico que nunca decepciona.ㅤㅤㅤㅤㅤㅤ",
+      category: "Chocolates",
+      rating: 5,
+      colors: ["bg-candy-yellow", "bg-candy-pink"],
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498444/chocolate_bombom_ouro_branco_1kg_lacta_1718575_1_603a16f30cafd66d32751337881e57b3_zycyco.webp"
+    },
+    {
+    id: 36,
+    name: "Doritos",
+    description: "O clássico crocante e cheio de sabor.",
+    category: "Salgadinhos",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498890/202412111638178583novo_projeto_19-dgq93a69aa_yj98ti.webp"
+  },
+  {
+    id: 37,
+    name: "Cheetos",
+    description: "Sabor marcante e crocância irresistível.",
+    category: "Salgadinhos",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498896/Sem-titulo_pnmd8d.png"
+  },
+  {
+    id: 38,
+    name: "Suflair",
+    description: "Chocolate aerado que derrete na boca.",
+    category: "Chocolates",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498869/suflair_nestle_ao_leite_20x50g_1249_1_691fc501850e7efb8c6626480cb7dac7_cnuery.webp"
+  },
+  {
+    id: 39,
+    name: "Bala Cereja",
+    description: "Doce, intensa e cheia de sabor.",
+    category: "Balas",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498892/images_2_k2uwh2.jpg"
+  },
+  {
+    id: 40,
+    name: "Bala Menta",
+    description: "Refrescante e clássica.",
+    category: "Balas",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498883/BALA-LOVE-MANIA-MENTA-600GRS-Pennacchi_lkw54n.jpg"
+  },
+  {
+    id: 41,
+    name: "Bala Café",
+    description: "Sabor marcante para quem ama café.",
+    category: "Balas",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498887/bala_de_cafe_pocket_cremosa_coffee_500g_freegells_5790279_1_20200504082103_zj9wco.webp"
+  },
+  {
+    id: 42,
+    name: "Bala Canela",
+    description: "Picante na medida certa.",
+    category: "Balas",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498872/104774881cefd72e20e_ugq3zf.webp"
+  },
+  {
+    id: 43,
+    name: "Lacta Branco",
+    description: "Chocolate branco cremoso e irresistível.",
+    category: "Chocolates",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498898/chocolatebrancolakalactacaixacom12unidadesde34gcada7622210573346_exmd4n.webp"
+  },
+  {
+    id: 44,
+    name: "Lacta Diamante Negro",
+    description: "Crocante por fora, cremoso por dentro.",
+    category: "Chocolates",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498894/51lWFoNRY0L._AC_UF894_1000_QL80__d5kuxc.jpg"
+  },
+  {
+    id: 45,
+    name: "Toddy / Chocomilk",
+    description: "Sabor clássico que todo mundo ama.",
+    category: "Bebidas",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498873/images_3_b5m5ms.jpg"
+  },
+  {
+    id: 46,
+    name: "Torcida Pimenta Mexicana",
+    description: "Crocrante com toque apimentado.",
+    category: "Salgadinhos",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498879/151451-1_zmzffl.webp"
+  },
+  {
+    id: 47,
+    name: "Torcida Churrasco",
+    description: "Sabor churrasco bem marcante.",
+    category: "Salgadinhos",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498881/44fa13a2-SalgadinhoTorcidaSaborChurrasco35g_61087_stagph.webp"
+  },
+  {
+    id: 48,
+    name: "Charge",
+    description: "Chocolate com caramelo e amendoim.",
+    category: "Chocolates",
+    rating: 5,
+    colors: ["bg-candy-yellow", "bg-candy-pink"],
+    image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498559/61sh2ZxOj_L._AC_UF894_1000_QL80__xudaph.jpg"
+  }
+
   ];
 
   const categories = ["Todos", "Doces", "Bombons", "Chocolates", "Salgadinhos", "Castanhas", "Balas/Chicletes", "Bebidas"];
