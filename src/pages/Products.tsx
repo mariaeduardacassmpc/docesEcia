@@ -304,7 +304,7 @@ const Products = () => {
       id: 35,
       name: "Ouro Branco",
       description: "Um clássico que nunca decepciona.ㅤㅤㅤㅤㅤㅤ",
-      category: "Chocolates",
+      category: "Bombons",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
       image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498444/chocolate_bombom_ouro_branco_1kg_lacta_1718575_1_603a16f30cafd66d32751337881e57b3_zycyco.webp"
@@ -340,7 +340,7 @@ const Products = () => {
     id: 39,
     name: "Bala Cereja",
     description: "Doce, intensa e cheia de sabor.",
-    category: "Balas",
+    category: "Balas/Chicletes",
     rating: 5,
     colors: ["bg-candy-yellow", "bg-candy-pink"],
     image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498892/images_2_k2uwh2.jpg"
@@ -349,7 +349,7 @@ const Products = () => {
     id: 40,
     name: "Bala Menta",
     description: "Refrescante e clássica.",
-    category: "Balas",
+    category: "Balas/Chicletes",
     rating: 5,
     colors: ["bg-candy-yellow", "bg-candy-pink"],
     image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498883/BALA-LOVE-MANIA-MENTA-600GRS-Pennacchi_lkw54n.jpg"
@@ -358,7 +358,7 @@ const Products = () => {
     id: 41,
     name: "Bala Café",
     description: "Sabor marcante para quem ama café.",
-    category: "Balas",
+    category: "Balas/Chicletes",
     rating: 5,
     colors: ["bg-candy-yellow", "bg-candy-pink"],
     image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498887/bala_de_cafe_pocket_cremosa_coffee_500g_freegells_5790279_1_20200504082103_zj9wco.webp"
@@ -367,7 +367,7 @@ const Products = () => {
     id: 42,
     name: "Bala Canela",
     description: "Picante na medida certa.",
-    category: "Balas",
+    category: "Balas/Chicletes",
     rating: 5,
     colors: ["bg-candy-yellow", "bg-candy-pink"],
     image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498872/104774881cefd72e20e_ugq3zf.webp"
