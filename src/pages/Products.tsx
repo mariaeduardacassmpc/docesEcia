@@ -140,7 +140,7 @@ const Products = () => {
       category: "Salgadinhos",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497768/chicken_chicks_2_bhgqxo.jpg"
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498074/cebola_1_s7e50k.jpg"
     },
     {
       id: 16,
@@ -197,7 +197,7 @@ const Products = () => {
       id: 22,
       name: "Pé de Moça Apetitoso",
       description: "Tradicional doce de amendoim e leite condensado, cremoso e irresistível.",
-      category: "Balas/Chicletes",
+      category: "Doces",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
       image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498179/pemoca_1_xcgcye.jpg"
@@ -233,7 +233,7 @@ const Products = () => {
       id: 27,
       name: "Espeto Ovos",
       description: "Ovos de codorna em conserva. ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
-      category: "Balas/Chicletes",
+      category: "Outros",
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
       image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497949/ovo_1_v3d8iq.jpg"
@@ -246,15 +246,6 @@ const Products = () => {
       rating: 5,
       colors: ["bg-candy-yellow", "bg-candy-pink"],
       image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497903/furioso_1_fgmfzj.jpg"
-    }
-    ,{
-      id: 33,
-      name: "Sensação",
-      description: "Chocolate de morango com recheio cremoso e cobertura de chocolate ao leite.",
-      category: "Chocolates",
-      rating: 5,
-      colors: ["bg-candy-yellow", "bg-candy-pink"],
-      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497893/sensacao_1_p4ioe9.jpg"
     }
     ,{
       id: 29,
@@ -435,10 +426,19 @@ const Products = () => {
     colors: ["bg-candy-yellow", "bg-candy-pink"],
     image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765498559/61sh2ZxOj_L._AC_UF894_1000_QL80__xudaph.jpg"
   }
+   ,{
+      id: 49,
+      name: "Sensação",
+      description: "Chocolate de morango com recheio cremoso e cobertura de chocolate ao leite.",
+      category: "Chocolates",
+      rating: 5,
+      colors: ["bg-candy-yellow", "bg-candy-pink"],
+      image: "https://res.cloudinary.com/dlzv0khj5/image/upload/v1765497893/sensacao_1_p4ioe9.jpg"
+    }
 
   ];
 
-  const categories = ["Todos", "Doces", "Bombons", "Chocolates", "Salgadinhos", "Castanhas", "Balas/Chicletes", "Bebidas"];
+  const categories = ["Todos", "Doces", "Bombons", "Chocolates", "Salgadinhos", "Castanhas", "Balas/Chicletes", "Bebidas", "Outros"];
 
   const filteredProducts = selectedCategory === "Todos" 
     ? products 
@@ -529,7 +529,7 @@ const Products = () => {
       <section className="py-16">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-primary mb-6">
-            Não Encontrou o que Procura?
+            Não Encontrou o que procura?
           </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 

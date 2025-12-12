@@ -43,7 +43,7 @@ const Home = () => {
         
   <div className="absolute top-20 left-10">
   <img
-    src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/bala2.png"
+    src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765499466/bala2_1_bzwnzt.png"
     alt="Logo Marcelo Doces e Cia"
     className="w-32 h-32 object-contain shadow-none hidden xl:block"
     style={{ animation: 'upDown 2s infinite' }}
@@ -51,16 +51,14 @@ const Home = () => {
 </div>
 <div className="absolute top-40 right-20">
   <img
-    src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/bala1.png"
-    alt="Logo Marcelo Doces e Cia"
+    src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765499465/bala3_1_biz6gz.png"
     className="w-32 h-32 object-contain shadow-none hidden xl:block"
     style={{ animation: 'upDown 2.5s infinite', animationDelay: '0.5s' }}
   />
 </div>
 <div className="absolute bottom-20 left-1/4 " style={{ animationDelay: '2s' }}>
   <img
-    src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/bala3.png"
-    alt="Logo Marcelo Doces e Cia"
+    src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765499443/bala1_1_fmg2em.png"
     className="w-16 h-16 object-contain shadow-none hidden xl:block"
     style={{ animation: 'upDown 3s infinite', animationDelay: '1s' }}
   />
