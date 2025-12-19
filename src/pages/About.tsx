@@ -68,7 +68,7 @@ const About = () => {
                     <Card className="border-none shadow-sweet">
                       <CardContent className="relative w-full h-[450px] md:h-[550px] p-0">
                         <img
-                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/van.jpg"
+                          src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1766145105/traseiravan_2_z5hyg5.jpg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
@@ -80,7 +80,7 @@ const About = () => {
                     <Card className="border-none shadow-sweet">
                       <CardContent className="relative w-full h-[450px] md:h-[550px] p-0">
                           <img
-                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/traseiravan.jpg"
+                          src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495163/WhatsApp_Image_2025-08-01_at_15.14.12_o0vhz6.jpg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
@@ -93,7 +93,7 @@ const About = () => {
                     <Card className="border-none shadow-sweet">
                       <CardContent className="relative w-full h-[450px] md:h-[550px] p-0">
                         <img
-                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/foto.van.jpg"
+                          src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495163/WhatsApp_Image_2025-08-01_at_15.14.13_oobnod.jpg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
