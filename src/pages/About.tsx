@@ -93,7 +93,7 @@ const About = () => {
                     <Card className="border-none shadow-sweet">
                       <CardContent className="relative w-full h-[450px] md:h-[550px] p-0">
                         <img
-                          src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765495163/WhatsApp_Image_2025-08-01_at_15.14.13_oobnod.jpg"
+                          src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1766145476/WhatsApp_Image_2025-08-01_at_15.14.13_oobnod_akqjlh.jpg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
