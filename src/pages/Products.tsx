@@ -1,8 +1,6 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Star, Heart, Gift } from "lucide-react";
-import { useState } from "react";
 
 const Products = () => {
   const [selectedCategory, setSelectedCategory] = useState("Todos");

@@ -46,7 +46,8 @@ const About = () => {
             <div className="relative">
               <div className="bg-white p-6 text-center shadow-sweet rounded-2xl">
                 <img
-                  src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765499269/logotransparente_1_ajvzmj.png"
+                  src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/logotransparente.png"
+                  alt="Marcelo Doces e Cia"
                   className="h-48 w-48 mx-auto mb-4 object-contain rounded-xl"
                 />
                 <h3 className="text-2xl font-bold text-primary mb-2">+15 Anos</h3>
@@ -59,24 +60,16 @@ const About = () => {
 
       <section className="py-16 bg-muted/30">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-primary mb-6">
-              Nossa Galeria
-            </h2>
-            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Alguns momentos especiais da nossa jornada ao longo dos anos.
-            </p>
-          </div>
-          
           <div className="max-w-4xl mx-auto">
             <Carousel className="w-full">
               <CarouselContent>
                 <CarouselItem>
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
-                      <CardContent className="flex aspect-video items-center justify-center p-6">
+                      <CardContent className="relative w-full h-[300px] p-0">
                         <img
-                          src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765499271/van_1_lmtfed.jpg"
+                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/van.jpg"
+                          className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
                     </Card>
@@ -85,9 +78,22 @@ const About = () => {
                 <CarouselItem>
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
-                      <CardContent className="flex aspect-video items-center justify-center p-6">
-                        <img
+                      <CardContent className="relative w-full h-[300px] p-0">
+                          <img
                           src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/traseiravan.jpg"
+                          className="w-full h-full object-cover rounded-lg"
+                        />
+                      </CardContent>
+                    </Card>
+                  </div>
+                </CarouselItem>
+
+                <CarouselItem>
+                  <div className="p-1">
+                    <Card className="border-none shadow-sweet">
+                      <CardContent className="relative w-full h-[300px] p-0">
+                        <img
+                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/foto.van.jpg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
@@ -97,21 +103,9 @@ const About = () => {
                  <CarouselItem>
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
-                      <CardContent className="flex aspect-video items-center justify-center p-6">
+                      <CardContent className="relative w-full h-[300px] p-0">
                         <img
-                          src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765499268/traseiravan_1_n3by9w.jpg"
-                          className="w-full h-full object-cover rounded-lg"
-                        />
-                      </CardContent>
-                    </Card>
-                  </div>
-                </CarouselItem>
-                <CarouselItem>
-                  <div className="p-1">
-                    <Card className="border-none shadow-sweet">
-                      <CardContent className="flex aspect-video items-center justify-center p-6">
-                        <img
-                          src="https://res.cloudinary.com/dlzv0khj5/image/upload/v1765499266/foto.van_1_w7rjdh.jpg"
+                          src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/fotovan2025.jpeg"
                           className="w-full h-full object-cover rounded-lg"
                         />
                       </CardContent>
