@@ -66,7 +66,7 @@ const About = () => {
                 <CarouselItem>
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
-                      <CardContent className="relative w-full h-[300px] p-0">
+                      <CardContent className="relative w-full h-[450px] md:h-[550px] p-0">
                         <img
                           src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/van.jpg"
                           className="w-full h-full object-cover rounded-lg"
@@ -78,7 +78,7 @@ const About = () => {
                 <CarouselItem>
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
-                      <CardContent className="relative w-full h-[300px] p-0">
+                      <CardContent className="relative w-full h-[450px] md:h-[550px] p-0">
                           <img
                           src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/traseiravan.jpg"
                           className="w-full h-full object-cover rounded-lg"
@@ -91,7 +91,7 @@ const About = () => {
                 <CarouselItem>
                   <div className="p-1">
                     <Card className="border-none shadow-sweet">
-                      <CardContent className="relative w-full h-[300px] p-0">
+                      <CardContent className="relative w-full h-[450px] md:h-[550px] p-0">
                         <img
                           src="https://tyhimoopyfkckwiiwiwv.supabase.co/storage/v1/object/public/Produto/foto.van.jpg"
                           className="w-full h-full object-cover rounded-lg"
